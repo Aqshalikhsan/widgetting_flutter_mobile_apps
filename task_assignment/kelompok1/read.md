@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&vCenter=true&size=20&pause=1000&lines=kelompok+1;Group+1&color=FFFFFF&color=FFFFFF" />
+</h1>
 <p align="center">
 <details align="center">
   <summary><b>✨ Klik untuk melihat ✨</b></summary>
