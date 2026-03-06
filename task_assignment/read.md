@@ -7,19 +7,17 @@ Nama Kelompok dan Nama Anggota
 ---
 #Kelompok 1
 ---
-Herawati Putri Awaliyah E41241945<br>
-  Ajeng Elsa Fitriyani E41242041<br>
-  Nadzwa Miqdaruhul Alfa E41242060<br>
-  <b>Muhammad Fitrah Abdul Rahman Saleh E41242101</b>
+Herawati Putri Awaliyah (E41241945)<br>
+  Ajeng Elsa Fitriyani (E41242041)<br>
+  Nadzwa Miqdaruhul Alfa (E41242060)<br>
+  <b>Muhammad Fitrah Abdul Rahman Saleh (E41242101)</b>
   ---
 #Kelompok 2
 ---
-Alfon SOetanto<br>
-Mochamad Isya Nurdian Zawawi<br>
-Ramadhan Rahmatullah<br>
-Leon Abbad Bari Giovano<br>
->>>>>>> 34a712eed0eb956b673374206577f8610d912458
->>>>>>> 
+Alfon Soetanto (E41242098)<br>
+Mochamad Isya Nurdian Zawawi (E41241950)<br>
+Ramadhan Rahmatullah (E41241741)<br>
+Leon Abbad Bari Giovano (E41241780)<br>
 ---
 
 #kelompok 3 
