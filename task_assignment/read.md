@@ -4,6 +4,14 @@ Nama Kelompok dan Nama Anggota
 Nama Kelompok dan Nama Anggota
 
 =======
+---
+#Kelompok 1
+---
+Herawati Putri Awaliyah E41241945<br>
+  Ajeng Elsa Fitriyani E41242041<br>
+  Nadzwa Miqdaruhul Alfa E41242060<br>
+  <b>Muhammad Fitrah Abdul Rahman Saleh E41242101</b>
+  ---
 #Kelompol 2
 Alfon SOetanto
 Mochamad Isya Nurdian Zawawi
